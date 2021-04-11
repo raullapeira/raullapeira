@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raullapeira
+- 👀 I’m interested in robotics and Java
+- 🌱 I’m currently learning whatever no one [d|c]ares to learn
+- 💞️ I’m probably working on something sketchy when it comes to the management part or nearly impossible when it comes to the technical part
+- 📫 How to reach me: look in those projects that are about to blow... I am usually pulled in to solve shit
